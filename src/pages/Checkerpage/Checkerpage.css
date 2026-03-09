@@ -879,7 +879,7 @@
   gap: 8px;
 }
 
-..field-label {
+.field-label {
   font-size: 0.9rem;
   font-weight: 600;
   display: flex;
